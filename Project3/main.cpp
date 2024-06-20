@@ -19,7 +19,7 @@ public:
 		std::cout << "jump" << name_ << " = " << jumps << std::endl;
 	}
 
-	static void SpeedRabbit() {//
+	static void SpeedRabbit() {// це він ускорився 
 		jumps += 4;
 	}
 
